@@ -49,7 +49,7 @@ const [unsplashimages, setUnsplashimages] = useState([])
           })}
         </>
       ) : (
-        <div><h4>This is to show when unsuccessful </h4></div>
+        <div><h4>This part of ternary is to show when unsuccessful </h4></div>
       )
       }
 
