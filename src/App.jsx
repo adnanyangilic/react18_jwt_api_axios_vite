@@ -1,6 +1,6 @@
 import axios from 'axios'
 import { useEffect, useState } from 'react'
-import Example from './Example'
+import Create from './Create'
 import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
 
